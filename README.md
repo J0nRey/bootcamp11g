@@ -1,2 +1,2 @@
 # bootcamp11g
-primer repoitorio
+Repositorio de la 11va generacion de kodemia
